@@ -1,3 +1,7 @@
+# ANTLR4 grammar file analysis for Droplet mode creation.
+# Copyright (c) Anthony Bau 2016
+# MIT License.
+
 from antlr4 import *
 from ANTLRv4Lexer import ANTLRv4Lexer
 from ANTLRv4Parser import ANTLRv4Parser
